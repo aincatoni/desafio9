@@ -20,3 +20,10 @@ Sitio Web estilo landing page que contiene:
 --Incluye Título y Botón
 -Footer
 --Incluye Marc, Redes Sociales y enlaces
+
+##Sketch Versión Desktop (Incluye estructura de clases)
+![sketch_desktop](https://user-images.githubusercontent.com/8588336/49411105-5b84c780-f746-11e8-9dbd-198212058708.png)
+
+##Sketch Versión Mobile (Incluye estructura de clases)
+![tia_tomate_sketch_mobile](https://user-images.githubusercontent.com/8588336/49411106-5b84c780-f746-11e8-9611-76c0f1bd9c6e.png)
+
